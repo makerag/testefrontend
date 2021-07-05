@@ -3,7 +3,7 @@ Primeiramente você deve fazer um fork desse projeto para então iniciar os trab
 
 Após o teste estar totalmente pronto você deve abrir uma Pull Request de volta para este repositório e enviar um email para dev@maker.ag confirmando a entrega.
 
-# O teste
+# O Teste
 Você precisa desenvolver o Front-end do arquivo PSD disponível no repo. Utilizando os arquivos já criados (index.html, style.css, main.js)
 
 As imagens podem ser colocadas na pasta assets/images
