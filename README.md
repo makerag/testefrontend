@@ -1,10 +1,10 @@
-# Teste para vaga Front-end
+# Teste para vaga Front-end Jr.
 Primeiramente você deve fazer um fork desse projeto para então iniciar os trabalhos.
 
 Após o teste estar totalmente pronto você deve abrir uma Pull Request de volta para este repositório e enviar um email para dev@maker.ag confirmando a entrega.
 
 # O teste
-Você precisa desenvolver o front end do arquivo PSD disponível no repo. Utilizando os arquivos já criados (index.html, style.css, main.js)
+Você precisa desenvolver o Front-end do arquivo PSD disponível no repo. Utilizando os arquivos já criados (index.html, style.css, main.js)
 
 As imagens podem ser colocadas na pasta assets/images
 
